@@ -115,11 +115,4 @@ else:
 Sugestões, melhorias e implementações adicionais (remoção, merge de
 árvores, visualização gráfica etc.) são bem-vindas!
 
-## 🧠 Autoquestionamento obrigatório
 
-1.  **Estou investindo mais tempo em me preparar para agir do que agindo
-    de fato?**\
-2.  **Quando peço uma correção ou explicação, estou aprendendo a fazer
-    sozinho ou só terceirizando esse papel?**\
-3.  **Minhas decisões técnicas levam em conta o impacto
-    humano/experiencial do que estou desenvolvendo?**
